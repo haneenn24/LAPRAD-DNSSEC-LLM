@@ -1,5 +1,3 @@
-Got it — here’s the **README.md** in one single block, clean and ready to copy:
-
 ````markdown
 # LAPRAD-DNSSEC
 
